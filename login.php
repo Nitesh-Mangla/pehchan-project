@@ -5,3 +5,7 @@ echo "this is change of test branchs1111111111111111111";
 echo "this is for testing some cases";
 echo "this is for testing some cases222222222222222222222345677";
 sdsandfhasbfbds
+dfsfdfdgfdgdfgbdg
+gf
+dgettext(g
+	d, message)
